@@ -35,7 +35,7 @@ Before running the script, make sure you have the following:
 3. Creating a Table:
  Defines a table named "students" with columns for name and age.
 
-4.Inserting Data:
+4. Inserting Data:
  Populates the "students" table with sample data.
 
 5. Querying Data:

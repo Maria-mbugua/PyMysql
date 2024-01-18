@@ -1,5 +1,8 @@
 # Python and MySQL: Database  Manipulation
 
+![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 This Python script demonstrates basic database manipulation operations using the 'mysql.connector' module to interact with a MySQL database. The script covers essential tasks such as creating a database, creating tables, inserting data, querying data, updating records, and deleting records.
 
 # Prerequisites
